@@ -1,4 +1,4 @@
-Here are some resources for the [LÖVR open source library](https://lovr.org/) for VR games. These resources are maintained by [Mermaid Heavy Industries](https://mermaid.industries/) (that's me). If you have questions about anything here, feel free to join the [LÖVR slack](https://ifyouwannabemylovr.slack.com) and talk to "mcc" (that's me).
+Here are some resources for the [LÖVR open source library](https://lovr.org/) for VR games. These resources are maintained by [Mermaid Heavy Industries](https://mermaid.industries/) (that's me). If you have questions about anything on this page, feel free to join the [LÖVR slack](https://lovr.org/slack) and talk to "mcc" (that's me).
 
 # LÖDR
 
