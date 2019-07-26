@@ -20,7 +20,7 @@ I maintain the port of LÖVR to Oculus Mobile (Oculus Go and Samsung Gear VR). U
 * Make a LÖVR app. A LÖVR game is a directory full of Lua files and resources. To get started you could clone lovr-ent linked above, or you could download one of the official examples (go [here](https://github.com/bjornbytes/lovr-docs), click Download->Download Zip, and look in the "examples" folder-- I like the "Physics" example).
 * Once you've put together an app, cd to its directory and run exactly this:
 
-        adb push --sync . /sdcard/Android/data/org.lovr.test/files
+        adb push --sync . /sdcard/Android/data/org.lovr.test/files/.lodr
 
 * On your Oculus Go, go to Library, click "Unknown Sources" (if this is not there, make sure your Go is in Developer Mode), and click "LovrTest (org.lovr.test)".
 * The game you `adb push`ed will be running now. You can `adb push` again to upload a different game (if the game is running when you push, it will automatically restart).
